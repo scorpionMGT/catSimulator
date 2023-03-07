@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cat": "../../components/cat/index"
+  },
+  "disableScroll": true
+}
